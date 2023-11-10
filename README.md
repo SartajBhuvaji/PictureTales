@@ -9,6 +9,10 @@ This Gradio app allows you to upload an image, and it will generate a short stor
 - Select an image and Upload
 ![02](https://github.com/SartajBhuvaji/Image-to-Story-Generator/assets/31826483/20ef38ee-562f-4cfa-9d64-3f01e85f231b)
 
+- Image
+![beach (1)](https://github.com/SartajBhuvaji/Image-to-Story-Generator/assets/31826483/69a5b52b-c6dd-41cb-889b-486977ebf37c)
+
+
 - Download the audio story
   
 https://github.com/SartajBhuvaji/Image-to-Story-Generator/assets/31826483/1fe00f34-9716-4047-9b57-a7794524816a
