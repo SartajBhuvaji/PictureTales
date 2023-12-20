@@ -1,6 +1,6 @@
-# Gradio App: Image to Story Generator 
+# PictureTales
 
-This Gradio app allows you to upload an image, and it will generate a short story based on the image's content using image captioning. The generated story is then converted to audio using text-to-speech technology. You can both see the generated story and listen to it.
+PictureTales allows you to upload an image, and it will generate a short story based on the image's content using image captioning. The generated story is then converted to audio using text-to-speech technology. You can both see the generated story and listen to it.
 
 # Demo
 - Launching the application
