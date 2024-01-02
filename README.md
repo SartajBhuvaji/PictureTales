@@ -35,11 +35,9 @@ pip install -r requirements.txt
 
 python app.py
 ```
-`Create a .env file and paste your HUGGINGFACE, OPEN AI API Keys (Check the dummy_env file)`
-
-`Open your web browser and navigate to http://localhost:7860 to access the app.`
-
-`Upload an image to the app and click "Generate Story." You will see the generated story and be able to listen to it as audio.`
+- Create a .env file and paste your HUGGINGFACE, OPEN AI API Keys (Check the dummy_env file)
+- Open your web browser and navigate to http://localhost:7860 to access the app.
+- Upload an image to the app and click "Generate Story." You will see the generated story and be able to listen to it as audio.
 
 # Tech
 - HuggingFace
